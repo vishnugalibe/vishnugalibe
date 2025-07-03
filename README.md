@@ -1,6 +1,5 @@
-## Hi there 👋
-
-https://linkedin.com/in/vishnugalibe
+Hello,![image](https://github.com/user-attachments/assets/481156d3-6d10-4ba6-b0a7-7021b1c53f67)
+!
 <!--
 **vishnugalibe/vishnugalibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
