@@ -1,4 +1,5 @@
-Hello, I'm Galibe Vishnu!
+vishnugalibe@gmail.com
+
 <!--
 **vishnugalibe/vishnugalibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
