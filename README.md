@@ -17,7 +17,7 @@
 <li>Dart</li>
 </ul>
 
-<h3>Front-end</h3>
+<h3>Frontend</h3>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
