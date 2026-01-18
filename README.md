@@ -37,9 +37,7 @@
 </ul>
 
 
-<div align="center">
 <h1>Profiles</h1>
-<div>
 
 <ul
 <li><strong>Email : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
