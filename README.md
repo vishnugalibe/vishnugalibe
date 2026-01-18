@@ -46,11 +46,7 @@
 
 <li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
 
-<li><strong>LeetCode : <strong>  <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
-</ul>
-
-
-<br><br>
+<label>Let's connect, create and collaborate on more repositories</label>
 
 <h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
 
