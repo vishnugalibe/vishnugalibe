@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<h2>Skills</h2>
+<h1>Skills</h1>
 </div>
 
 <h4>Languages</h4>
