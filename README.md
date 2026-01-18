@@ -5,7 +5,7 @@
 </div><br><br>
 
 
-<label align="center"><strong>Profile</strong></label>
+<label align="center"><strong>Profile</strong></label><hr>
 
 <p>I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Bharat Institute of Engineering and Technology and passionate about Java, Python, and SQL. I have worked on an intermediate-level Mobile Banking project and have participated in hackathons, where I gained hands-on experience in problem-solving and collaborative development. And deeply interested in exploring Web Development and Application Development.</p>
 <br><br>
