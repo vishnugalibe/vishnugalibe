@@ -1,9 +1,5 @@
-# Galibe Vishnu
-Student at BIET | 
-Student at BIET | 
-Student at BIET | Aspiring Software Engineer
-## Student at BIET | Aspiring Software Engineer
-
+<h1>Galibe Vishnu</h1>
+<h4>Student at BIET | Aspiring Software Engineer</h4>
 
 <!--
 **vishnugalibe/vishnugalibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
