@@ -1,4 +1,3 @@
-
 <h1 align="center">Summary</h1>
 
 
@@ -16,6 +15,6 @@
   <li><strong>Tools: </strong>VS Code, MySQL Workbench, Git, GitHub, Canva</li>
 </ul>
 
-<h4>Let's connect, create and collaborate on more Repositories.</h4>
-<br><h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
+<h5>Let's connect, create and collaborate on more Repositories.</h5>
+<h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
 
