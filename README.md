@@ -41,15 +41,7 @@
 <h1>Profiles</h1>
 <div>
 
-<!-- <h3>Professional</h3> --!>
-
-<ul>
-<!-- 
-<li><strong>Portfolio : </strong> <a href="htps://vishnugalibe.github.io" target="_main">@vishnugalibe.github.io</a></li>
-
-<li><strong>Resume : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">Resume</a></li>
---!>
-
+<ul
 <li><strong>Email : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
 
 <li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
