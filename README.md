@@ -1,9 +1,3 @@
-<!-- <div align="center">
-<label><strong><big>Galibe Vishnu</big></strong></label><br>
-<label>Aspiring Software Engineer</label><br>
-<a href="mailto:vishnugalibe@gmail.com" target="_main">E-mail</a> <label>•</label> <a href="https://linkedin.com/in/vishnugalibe" target="_main">LinkedIn</a> <label>•</label> <a href="https://tr.ee/vishnugalibe" target="_main">Linktree</a>
-</div> --!>
-
 <div align="center">
 <h2>Profile</h2>
 </div>
@@ -41,3 +35,9 @@
 <li>MySQL Workbench</li>
 <li>Canva</li>
 </ul>
+
+<!-- <div align="center">
+<label><strong><big>Galibe Vishnu</big></strong></label><br>
+<label>Aspiring Software Engineer</label><br>
+<a href="mailto:vishnugalibe@gmail.com" target="_main">E-mail</a> <label>•</label> <a href="https://linkedin.com/in/vishnugalibe" target="_main">LinkedIn</a> <label>•</label> <a href="https://tr.ee/vishnugalibe" target="_main">Linktree</a>
+</div> --!>
