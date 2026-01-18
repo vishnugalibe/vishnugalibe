@@ -47,4 +47,4 @@
 <li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
 </ul>
 
-<br><label>Let's connect, create and collaborate on more repositories</label>
+<h4>Let's connect, create and collaborate on more repositories</h4>
