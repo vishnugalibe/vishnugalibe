@@ -50,6 +50,7 @@
 </ul>
 
 
-<br><label><strong>Galibe Vishnu</strong></label><br>
-<label>Aspiring Software Engineer</label>
+<br><br>
+<label>Aspiring Software Engineer,</label>
+<h1>Galibe Vishnu</h1>
 
