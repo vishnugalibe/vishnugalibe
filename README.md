@@ -10,11 +10,11 @@
 </div>
 
 <ul>
-  <li><strong>Languages: </strong>C, Python, Java</li>
-  <li><strong>Frontend: </strong>HTML, CSS</li>
-  <li><strong>Database: </strong>MySQL</li>
-  <li><strong>Tools: </strong>VS Code, MySQL Workbench, Git, GitHub, Canva</li>
+  <li><strong>Languages : </strong>C, Python, Java</li>
+  <li><strong>Frontend : </strong>HTML, CSS</li>
+  <li><strong>Database : </strong>MySQL</li>
+  <li><strong>Tools : </strong>VS Code, MySQL Workbench, Git, GitHub, Canva</li>
 </ul>
 
-<h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
+<br><h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
 
