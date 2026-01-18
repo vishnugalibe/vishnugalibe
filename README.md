@@ -56,7 +56,7 @@
 
 <li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
 
-<li><strong>LeetCode : </strong> <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
+<li>LeetCode :  <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
 </ul>
 
 
