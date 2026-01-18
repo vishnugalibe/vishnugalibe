@@ -16,7 +16,7 @@
 <h3>Skills</h3>
 </div>
 
-<h5>Languages</h5>
+<h4>Languages</h4
 <ul>
 <li>C</li>
 <li>Python</li>
@@ -24,16 +24,16 @@
 <li>Dart</li>
 </ul>
 
-<h5>Front-end</h5>
+<h4>Front-end</h4>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 </ul>
 
-<h5>Database</h5>
+<h4>Database</h4>
 <ul><li>MySQL</li></ul>
 
-<h5>Tools</h5>
+<h4>Tools</h4>
 <ul>
 <li>VS Code</li>
 <li>Git</li>
