@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Profile</h1>
+<h1>Summary</h1>
 </div>
 
 <p>I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Bharat Institute of Engineering and Technology and passionate about Java, Python, and SQL. I have worked on an intermediate-level Mobile Banking project and have participated in hackathons, where I gained hands-on experience in problem-solving and collaborative development. And deeply interested in exploring Web Development and Application Development.</p>
@@ -35,6 +35,53 @@
 <li>MySQL Workbench</li>
 <li>Canva</li>
 </ul>
+
+
+<div align="center">
+<h2>Profiles</h2>
+<div>
+
+<h3>Professional</h3>
+
+<ul>
+<!-- 
+<li><strong>Portfolio : </strong> <a href="htps://vishnugalibe.github.io" target="_main">@vishnugalibe.github.io</a></li>
+
+<li><strong>Resume : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">Resume</a></li>
+--!>
+
+<li><strong>LinkedIn : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
+
+<li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
+
+<li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
+
+<li><strong>LeetCode : </strong> <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
+</ul>
+
+<!--
+<h3>Non-Professional</h3>
+<ul>
+
+<li><strong>Portfolio : </strong> <a href="htps://vishnugalibe.github.io" target="_main">@vishnugalibe.github.io</a></li>
+
+<li><strong>Resume : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">Resume</a></li>
+
+
+<li><strong>LinkedIn : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
+
+<li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
+
+<li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
+
+<li><strong>LeetCode : </strong> <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
+</ul>
+--!>
+
+
+<label>Aspiring Software Engineer</label>
+<h1>Galibe Vishnu</h1>
+
 
 <!-- <div align="center">
 <label><strong><big>Galibe Vishnu</big></strong></label><br>
