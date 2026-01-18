@@ -41,7 +41,7 @@
 <h1>Profiles</h1>
 <div>
 
-<h3>Professional</h3>
+<!-- <h3>Professional</h3> --!>
 
 <ul>
 <!-- 
@@ -50,7 +50,7 @@
 <li><strong>Resume : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">Resume</a></li>
 --!>
 
-<li><strong>LinkedIn : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
+<li><strong>Email : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
 
 <li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
 
@@ -78,9 +78,9 @@
 </ul>
 --!>
 
-
+<label><strong>Galibe Vishnu</strong></label>
 <label>Aspiring Software Engineer</label>
-<h1>Galibe Vishnu</h1>
+
 
 
 <!-- <div align="center">
