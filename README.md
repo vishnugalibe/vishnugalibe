@@ -45,7 +45,7 @@
 <li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
 
 <li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
-<ul>
+</ul>
 
 <br><label>Let's connect, create and collaborate on more repositories</label>
 
