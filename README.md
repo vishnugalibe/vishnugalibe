@@ -37,9 +37,9 @@
 </ul>
 
 
-<h1>Profiles</h1>
+<h1 align="center">Profiles</h1>
 
-<ul
+<ul>
 <li><strong>Email : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
 
 <li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
