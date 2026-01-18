@@ -13,5 +13,32 @@
 
 
 <div align="center">
-<h3></h3>
+<h3>Skills</h3>
 </div>
+
+<h5>Languages</h5>
+<ul>
+<li>C</li>
+<li>Python</li>
+<li>Java</li>
+<li>Dart</li>
+</ul>
+
+<h5>Front-end</h5>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+<h5>Database</h5>
+<ul><li>MySQL</li></ul>
+
+<h5>Tools</h5>
+<ul>
+<li>VS Code</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>Render</li>
+<li>MySQL Workbench</li>
+<li>Canva</li>
+</ul>
