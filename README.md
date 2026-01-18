@@ -51,6 +51,6 @@
 
 
 <br><br>
-<label>Aspiring Software Engineer,</label>
+
 <h1>Aspiring Software Engineer, Galibe Vishnu</h1>
 
