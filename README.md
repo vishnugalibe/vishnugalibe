@@ -16,16 +16,6 @@
   <li><strong>Tools: </strong>VS Code, MySQL Workbench, Git, GitHub, Canva</li>
 </ul>
 
-<h1 align="center">Profiles</h1>
-
-<ul>
-<li><strong>Email : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
-
-<li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
-
-<li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
-</ul>
-
 <h4>Let's connect, create and collaborate on more Repositories.</h4>
 <br><h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
 
