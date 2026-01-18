@@ -1,4 +1,4 @@
-<h1>Galibe Vishnu</h1>
+<h1 style="text-align": center>Galibe Vishnu</h1>
 <h4>Student at BIET | Aspiring Software Engineer</h4>
 
 <!--
