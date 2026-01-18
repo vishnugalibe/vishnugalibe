@@ -38,7 +38,7 @@
 
 
 <div align="center">
-<h2>Profiles</h2>
+<h1>Profiles</h1>
 <div>
 
 <h3>Professional</h3>
