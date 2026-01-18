@@ -1,7 +1,7 @@
 <div align="center">
 <label><strong><big>Galibe Vishnu</big></strong></label><br>
 <label>Aspiring Software Engineer</label><br>
-<a href="mailto:vishnugalibe@gmail.com" target="_blank">E-mail</a> <label>•</label> <a href="https://linkedin.com/in/vishnugalibe" target="_blank">LinkedIn</a> <label>•</label> <a href="https://tr.ee/vishnugalibe" target="_blank">Linktree</a>
+<a href="mailto:vishnugalibe@gmail.com" target="_blank">E-mail</a> <label>•</label> <a href="https://linkedin.com/in/vishnugalibe" target="_blank">LinkedIn</a> <label>•</label> <a href="https://tr.ee/vishnugalibe" target="_main">Linktree</a>
 </div><br>
 
 <div align="center">
@@ -13,5 +13,5 @@
 
 
 <div align="center">
-<h></h>
+<h3></h3>
 </div>
