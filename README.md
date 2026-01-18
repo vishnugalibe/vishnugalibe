@@ -78,7 +78,7 @@
 </ul>
 --!>
 
-<label><strong>Galibe Vishnu</strong></label>
+<br><label><strong>Galibe Vishnu</strong></label><br>
 <label>Aspiring Software Engineer</label>
 
 
