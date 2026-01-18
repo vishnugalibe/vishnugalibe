@@ -9,33 +9,12 @@
 <h1>Skills</h1>
 </div>
 
-<h3>Languages</h3>
 <ul>
-<li>C</li>
-<li>Python</li>
-<li>Java</li>
-<li>Dart</li>
+  <li><strong>Languages: </strong>C, Python, Java</li>
+  <li><strong>Frontend: </strong>HTML, CSS</li>
+  <li><strong>Database: </strong>MySQL</li>
+  <li><strong>Tools: </strong>VS Code, MySQL Workbench, Git, GitHub, Canva</li>
 </ul>
-
-<h3>Frontend</h3>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-</ul>
-
-<h3>Database</h3>
-<ul><li>MySQL</li></ul>
-
-<h3>Tools</h3>
-<ul>
-<li>VS Code</li>
-<li>Git</li>
-<li>GitHub</li>
-<li>Render</li>
-<li>MySQL Workbench</li>
-<li>Canva</li>
-</ul>
-
 
 <h1 align="center">Profiles</h1>
 
