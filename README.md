@@ -59,32 +59,7 @@
 <li><strong>LeetCode : </strong> <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
 </ul>
 
-<!--
-<h3>Non-Professional</h3>
-<ul>
-
-<li><strong>Portfolio : </strong> <a href="htps://vishnugalibe.github.io" target="_main">@vishnugalibe.github.io</a></li>
-
-<li><strong>Resume : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">Resume</a></li>
-
-
-<li><strong>LinkedIn : </strong> <a href=mailto:vishnugalibe@gmail.com" target="_main">vishnugalibe@gmail.com</a></li>
-
-<li><strong>LinkedIn : </strong> <a href="https://linkedin.com/in/vishnugalibe" target="_main">@vishnugalibe</a></li>
-
-<li><strong>GitHub : </strong> <a href="https://github.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
-
-<li><strong>LeetCode : </strong> <a href="https://leetcode.com/vishnugalibe" target="_main">@vishnugalibe</a></li>
-</ul>
---!>
 
 <br><label><strong>Galibe Vishnu</strong></label><br>
 <label>Aspiring Software Engineer</label>
 
-
-
-<!-- <div align="center">
-<label><strong><big>Galibe Vishnu</big></strong></label><br>
-<label>Aspiring Software Engineer</label><br>
-<a href="mailto:vishnugalibe@gmail.com" target="_main">E-mail</a> <label>•</label> <a href="https://linkedin.com/in/vishnugalibe" target="_main">LinkedIn</a> <label>•</label> <a href="https://tr.ee/vishnugalibe" target="_main">Linktree</a>
-</div> --!>
