@@ -1,6 +1,6 @@
 <div align="center">
-<label><big><big><big><big><big><strong>Galibe Vishnu</strong></big></big></big></big></big></label><br>
-<label>Aspiring Software Engineer</label><br><br>
+<h1><big><big><big><big><big><strong>Galibe Vishnu</strong></big></big></big></big></big></h1><br>
+<label>Aspiring Software Engineer</label><br>
 <a href="mailto:vishnugalibe@gmail.com" target="_blank">E-mail</a> <label>|</label> <a href="https://linkedin.com/in/vishnugalibe" target="_blank">LinkedIn</a> <label>|</label> <a href="https://tr.ee/vishnugalibe" target="_blank">Linktree</a>
 </div><br>
 
