@@ -15,8 +15,8 @@
 <h3>Skills</h3>
 </div>
 
-<h4>Languages</h4
 <ul>
+<h4>Languages</h4>
 <li>C</li>
 <li>Python</li>
 <li>Java</li>
