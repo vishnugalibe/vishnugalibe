@@ -5,16 +5,3 @@
 <p>Let's connect, create and collaborate on more Repositories.</p>
 
 
-<div align="center">
-<h1>Skills</h1>
-</div>
-
-<ul>
-  <li><strong>Languages : </strong>C, Python, Java</li>
-  <li><strong>Frontend : </strong>HTML, CSS</li>
-  <li><strong>Database : </strong>MySQL</li>
-  <li><strong>Tools : </strong>VS Code, MySQL Workbench, Git, GitHub, Canva</li>
-</ul>
-
-<br><h1>Aspiring Software Engineer, Galibe Vishnu!</h1>
-
